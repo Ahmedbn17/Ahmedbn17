@@ -3,7 +3,7 @@
 </h1>
 <hr/>
  
- <h2 align="center">Languages,Frameworks and Technologies i know</h2>
+ <h2 align="center">Languages,Frameworks and Technologies i used</h2>
  
 <br/>
 
