@@ -8,6 +8,6 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,go" /><br>
-    <img src="https://skillicons.dev/icons?i=github,powershell,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java" /><br>
+    <img src="https://skillicons.dev/icons?i=github,powershell,linux,python,go" /><br>
 </div>
