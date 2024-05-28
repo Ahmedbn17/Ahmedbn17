@@ -3,11 +3,11 @@
 </h1>
 <hr/>
  
- <h2 align="center">Languages/Frameworks and Technologies</h2>
+ <h2 align="center">Languages,Frameworks and Technologies i know</h2>
  
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java" /><br>
-    <img src="https://skillicons.dev/icons?i=github,powershell,linux,python,go" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=github,linux,python,go,java" /><br>
 </div>
